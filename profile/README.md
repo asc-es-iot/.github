@@ -1,1 +1,1 @@
-# Embedded Systems TAG at Amrita Vishwa Vidyappetham, CBE.
+# Embedded Systems TAG at Amrita Vishwa Vidyapeetham, CBE.
